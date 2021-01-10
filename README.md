@@ -3,6 +3,8 @@
 ## Description
  A code-along from Brad Traversy's "20 Web Projects With Vanilla Javascript" Udemy course
 
+![image](https://user-images.githubusercontent.com/57811605/104112575-5d1a0580-52a5-11eb-8beb-ad983daecd71.png)
+
 ## Technologies Used  
 HTML  
 CSS  
